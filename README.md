@@ -8,5 +8,11 @@ Hi there 👋
   </picture>
 </p>
 
-
 _generated with [Platane/snk](https://github.com/Platane/snk)_
+
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Hexa-Da&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hexa-Da&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=Hexa-Da&theme=radical)
