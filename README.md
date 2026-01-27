@@ -1,10 +1,10 @@
-<div align="center" style="overflow: hidden; max-height: 400px;">
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hexa-Da/Hexa-Da/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hexa-Da/Hexa-Da/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Hexa-Da/Hexa-Da/output/github-contribution-grid-snake.svg" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Hexa-Da/Hexa-Da/output/github-contribution-grid-snake.svg">
   </picture>
-</div>
+</p>
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
