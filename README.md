@@ -20,6 +20,12 @@
   <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ros" height="60" alt="ros logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ros" height="60" alt="ros logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cs" height="60" alt="csharp logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="60" alt="php logo" />
 </div>
 
 ###
